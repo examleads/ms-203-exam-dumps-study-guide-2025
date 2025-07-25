@@ -1,0 +1,34 @@
+Real Candidate Tips – Direct from Passed MS-203 Folks
+🔹 1. Focus on Real-World Use Cases
+"Questions aren't just definitions — they're scenarios like: 'Company X wants to route emails externally under condition Y. What do you do?'"
+
+📌 Tip: Think like an admin. Don’t memorize — understand what setting goes where.
+
+🔹 2. Watch Time – It’s Tight!
+"I finished with 5 minutes left. Some scenario questions were long."
+
+📌 Tip: Flag difficult questions & move on — come back later. Don’t get stuck.
+
+🔹 3. Know Where Settings Are in Microsoft Admin Portals
+"A few questions literally asked what page/section to go to: Exchange Admin vs Security Portal."
+
+📌 Tip: Be familiar with navigation of Microsoft 365 Admin Center, Exchange Online, Defender Portal.
+
+🔹 4. Master Hybrid Setup Concepts
+"Hybrid questions are a favorite — mail flow, AD Connect, certificate issues."
+
+📌 Tip: Know what breaks hybrid and how to troubleshoot.
+
+🔹 5. Use Microsoft's Documentation When Practicing
+"Some answers were directly from the docs — exact terminologies!"
+
+📌 Tip: Cross-check confusing topics like RBAC, MRM, OME from Microsoft Learn
+
+🧘‍♂️ Bonus Mindset Tips
+Sleep at least 6-7 hours before exam
+
+Reach test center (or login) 30 minutes early
+
+Stay calm — exam is passable with smart prep
+
+If you don’t know an answer, eliminate the obvious wrong ones
