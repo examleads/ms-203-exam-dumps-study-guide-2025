@@ -4,7 +4,7 @@ Welcome to the ultimate open-source resource for the **MS-203: Microsoft 365 Mes
 
 ## 📘 What's Inside?
 
-- 🔹 **2025 Verified MS-203 Exam Dumps (PDF + CSV Format)**
+- 🔹 **2025 Verified MS-203 Exam Dumps (PDF Format)**
 - 🔹 Topic-wise breakdown of all exam domains (Hybrid deployment, Compliance, Transport Rules, etc.)
 - 🔹 One-Week Last-Minute Study Plan
 - 🔹 Exam-day checklist + Tips from real candidates
