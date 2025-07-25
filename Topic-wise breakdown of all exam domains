@@ -1,0 +1,86 @@
+MS-203 Exam Domains (2025 Breakdown)
+🔹 1. Manage Organizational Settings and Resources (15–20%)
+Topics:
+Mailbox plans and quotas
+
+Address book policies (ABPs)
+
+Role Based Access Control (RBAC)
+
+Resource mailboxes (rooms, equipment)
+
+Retention policies & MRM
+
+Organizational sharing & federation
+
+External sharing (calendar/contact)
+
+🔹 2. Plan and Manage the Mail Architecture (20–25%)
+Topics:
+Mail flow architecture
+
+Accepted domains, connectors
+
+Edge Transport servers
+
+Mail routing and delivery troubleshooting
+
+MX records, SPF, DKIM, DMARC
+
+Transport rules (mail flow rules)
+
+Mail flow policies (Journaling, moderation)
+
+🔹 3. Plan and Implement a Hybrid Configuration and Migration (20–25%)
+Topics:
+Hybrid configuration wizard (HCW)
+
+Hybrid mail flow setup
+
+Directory synchronization (Azure AD Connect)
+
+Exchange Classic Full Hybrid vs Minimal Hybrid
+
+Mailbox migration: Cutover, Staged, Hybrid
+
+Cross-premises permissions & coexistence
+
+Hybrid Modern Authentication (HMA)
+
+🔹 4. Secure the Messaging Environment (30–35%)
+Topics:
+Microsoft Defender for Office 365
+
+Anti-phishing, anti-malware, anti-spam policies
+
+Safe Attachments & Safe Links
+
+Mail flow rule-based encryption (OME)
+
+DKIM, DMARC configuration
+
+RBAC for security admins
+
+Audit logs and message trace
+
+Threat protection policies
+
+Secure Score for messaging
+
+🔹 5. Monitor and Troubleshoot Messaging Infrastructure (15–20%)
+Topics:
+Message trace, delivery reports
+
+Insights via Microsoft 365 Admin Center
+
+Queue viewer, mail flow troubleshooting
+
+Service health dashboard
+
+Audit logs
+
+Microsoft 365 Reports
+
+Troubleshooting hybrid issues
+
+Diagnostic tools (EXOM, EXRC, EXTools)
