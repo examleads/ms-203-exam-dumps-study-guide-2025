@@ -43,3 +43,7 @@ For any issues or feedback, open an [Issue](https://github.com/examleads/ms-203-
 ---
 
 ⭐️ **Star this repo** if it helped you — and help others find it!
+
+🔓 100% Free | Open-Source for Everyone
+No paywalls. No tricks. Just pure learning! ⭐
+Join the mission – Contribute, Star & Share with your IT fam!
