@@ -1,0 +1,86 @@
+MS-203 One-Week Study Plan (Last-Minute High Impact)
+📌 Day 1 – Hybrid & Migration Setup
+🔹 Understand Hybrid Configuration Wizard (HCW)
+
+🔹 Learn Hybrid Mail Flow + Coexistence
+
+🔹 Study Mailbox Migration types: Cutover, Staged, Hybrid
+
+🔹 Focus on Azure AD Connect & Modern Authentication
+
+🧠 Practice: 10+ questions on migration scenarios
+
+📌 Day 2 – Mail Flow & Transport Rules
+🔹 Mail routing & connectors
+
+🔹 Understand Transport Rules and moderation policies
+
+🔹 SPF, DKIM, and DMARC setup for mail protection
+
+🔹 Focus on accepted domains, MX records
+
+🧠 Practice: 15+ questions on mail flow troubleshooting
+
+📌 Day 3 – Security & Compliance
+🔹 Microsoft Defender for Office 365
+
+🔹 Anti-malware, anti-phishing, safe attachments/links
+
+🔹 Learn Message Encryption (OME) setup
+
+🔹 Understand Audit logs, retention policies, eDiscovery
+
+🧠 Practice: 10+ case-based questions on protection policies
+
+📌 Day 4 – Permissions & Mailbox Management
+🔹 Understand RBAC model & management roles
+
+🔹 Configure Address Book Policies (ABPs)
+
+🔹 Room and equipment mailboxes
+
+🔹 Focus on Shared mailbox settings
+
+🧠 Practice: 10+ RBAC & policy-based Qs
+
+📌 Day 5 – Monitoring & Troubleshooting
+🔹 Message Trace, Delivery Reports
+
+🔹 Queue viewer & Transport logs
+
+🔹 Admin Center insights
+
+🔹 Secure Score for Messaging
+
+🧠 Practice: Troubleshooting + logs analysis questions
+
+📌 Day 6 – Mock Test Day + Weak Areas
+✅ Attempt 1 full mock test (50+ Qs)
+
+🔍 Review all incorrect answers
+
+🟠 Revisit weak domains (especially Hybrid or Transport)
+
+💡 Focus on real scenario-based MCQs.
+
+📌 Day 7 – Quick Revision & Confidence Boost
+📝 Go through:
+
+Summary notes or flashcards
+
+All correct/incorrect answers
+
+Domain objectives
+
+🎯 Attempt 20–30 random Qs
+
+🧘‍♂️ Stay calm, sleep early, prepare mentally
+
+✅ Bonus Resources You Can Use:
+Microsoft Learn: https://learn.microsoft.com/en-us/certifications/exams/ms-203
+
+Message Trace Tool: https://security.microsoft.com
+
+Free practice platforms: ExamTopics, Quizlet
+
+Paid verified dumps (use responsibly)
